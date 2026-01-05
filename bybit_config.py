@@ -1,0 +1,3 @@
+# ByBit API Credentials
+BYBIT_API_KEY='3Eope9YD2MWVJdLdhz'
+BYBIT_API_SECRET='NxlMOsCU8maSerD7JmKf2NsWn5xiBYKNe6Ht'
